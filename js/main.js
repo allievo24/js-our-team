@@ -46,9 +46,9 @@ const team =[
             ];      	         
 
 for (let i = 0; i < team.length; i++){
-    
+   console.log(('NOME'),("     "),('RUOLO'),("     "),('IMMAGINE'))
     console.log(team[i].NOME,("     ") ,team[i].RUOLO,("       "),team[i].IMMAGINE);
-  
+    
     
     
 
